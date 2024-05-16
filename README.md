@@ -2,7 +2,7 @@
 
 **Putting the OS back into OSINT**
 
-C²ARP is an open-source framework designed to provide transparent and actionable insights into global conflicts and crises. By leveraging open-source intelligence (OSINT), the project aims to equip decision-makers with tools to navigate uncertainty and manage risks effectively.
+C²ARP is an open-source intelligence framework designed to provide transparent and actionable insights into global conflicts and crises. By leveraging open-source intelligence (OSINT), the project aims to equip decision-makers with tools to navigate uncertainty and manage risks effectively.
 
 ## Vision
 To establish a digital framework where decision-makers, regardless of size or resources, can access transparent and actionable insights derived from open-source intelligence, empowering informed decision-making and resilience in crisis prediction and risk management.
