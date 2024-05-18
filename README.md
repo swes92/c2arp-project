@@ -11,7 +11,7 @@ To establish a digital framework where decision-makers, regardless of size or re
 The mission is to craft functional digital tools and distribute them openly, facilitating the analysis of open-source data with transparency. The project aims to uphold the spirit of “open-source” in OSINT, ensuring accessibility and clarity in data usage. By democratizing access to these resources, decision-makers across sectors can make informed choices, enhancing their capacity for crisis management and resilience.
 
 ## Proposed Features & Roadmap
-- **TBA**
+![C²ARP Roadmap Phase 1](roadmap.png)
 
 ## Current Status
 No contributions to the project are possible at this stage. Code will be pushed once pre-alpha versions of tools are available. Stay tuned for updates.
